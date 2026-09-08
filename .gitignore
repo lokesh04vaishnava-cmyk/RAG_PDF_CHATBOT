@@ -1,0 +1,9 @@
+venv/
+.venv/
+hf_cache/
+chroma_db/
+uploaded.pdf
+__pycache__/
+*.pyc
+.env
+.idea/
